@@ -9,7 +9,6 @@ let b = 0;
 
 //mencari maksimum
 for (let a = 0; a < arr.length; a++) {
-  //nomor pertama kan 6
   if (arr[a] >= number) {
     number = arr[a];
   }
